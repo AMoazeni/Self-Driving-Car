@@ -5,11 +5,7 @@ Take me to the [MATLAB code](https://github.com/AMoazeni/Self-Driving-Car/blob/m
 
 
 <br></br>
-Development of autonomous vehicles has accelerated in the past decade due to advances in computing speed, sensor technology, and popular interest. This article explores the Software Architecture for the Self-Driving Car shown below.
-
-
-<br></br>
-The controller uses a Model Predictive Control (MPC) algorithm to anticipate the car's future position, knowing the car's Vehicle Dynamics equations and measured position (current state).
+Development of autonomous vehicles has accelerated in the past decade due to advances in computing speed, sensor technology, and popular interest. This article explores the Software Architecture for the Self-Driving Car shown below. The controller uses a Model Predictive Control (MPC) algorithm to anticipate the car's future position, knowing the car's Vehicle Dynamics equations and measured position (current state).
 
 
 <br></br>
@@ -31,7 +27,7 @@ This architecture lets you control the vehicle acceleration, brake, and steering
 
 
 <br></br>
-<img src="https://raw.githubusercontent.com/AMoazeni/Self-Driving-Car/master/Jupyter%20Notebook/Images/02%20-%20Control%20System.png" text-align="center">
+<img src="https://raw.githubusercontent.com/AMoazeni/Self-Driving-Car/master/Jupyter%20Notebook/Images/02%20-%20Control%20System.png">
 
 
 <br></br>
@@ -99,7 +95,7 @@ Bicycle models are not as computationally expensive as car models, and also less
 
 
 <br></br>
-<img src="https://raw.githubusercontent.com/AMoazeni/Self-Driving-Car/master/Jupyter%20Notebook/Images/10%20-%20Bicycle%20Symbols.png" width=75%>
+<img src="https://raw.githubusercontent.com/AMoazeni/Self-Driving-Car/master/Jupyter%20Notebook/Images/10%20-%20Bicycle%20Symbols.png">
 
 
 
@@ -154,7 +150,7 @@ The [Robot Operating System (ROS)](http://www.ros.org/) is an open source platfo
 ROS applies a Soft Real-Time system to your code which is fine for single projects but becomes problematic when implemented at scale. There are workarounds for getting Hard Real-Time performance, but that's a topic for another post. Follow along with these [ROS Tutorials](http://wiki.ros.org/ROS/Tutorials) to get you started, section 1.1 steps 1-13 are the most important tutorials. The following Self-Driving Car visualization was made in ROS using the Rviz package.
 
 <br></br>
-<img src="https://raw.githubusercontent.com/AMoazeni/Self-Driving-Car/master/Jupyter%20Notebook/Images/15%20-%20ROS.png" width=75%>
+<img src="https://raw.githubusercontent.com/AMoazeni/Self-Driving-Car/master/Jupyter%20Notebook/Images/15%20-%20ROS.png">
 
 
 
