@@ -9,7 +9,7 @@ Development of autonomous vehicles has accelerated in the past decade due to adv
 
 
 <br></br>
-<img src="https://raw.githubusercontent.com/AMoazeni/Self-Driving-Car/master/Jupyter%20Notebook/Images/01%20-%20Car%20Sensors.png" width=75% text-align="center">
+<img src="https://raw.githubusercontent.com/AMoazeni/Self-Driving-Car/master/Jupyter%20Notebook/Images/01%20-%20Car%20Sensors.png" width=75%>
 
 
 <br></br>
@@ -39,7 +39,7 @@ The optimal solution relies on a dynamic model of the process with respects to i
 
 
 <br></br>
-<img src="https://raw.githubusercontent.com/AMoazeni/Self-Driving-Car/master/Jupyter%20Notebook/Images/03%20-%20MPC%20Algorithm.png" width=75% text-align="center">
+<img src="https://raw.githubusercontent.com/AMoazeni/Self-Driving-Car/master/Jupyter%20Notebook/Images/03%20-%20MPC%20Algorithm.png" width=75%>
 
 
 
