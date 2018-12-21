@@ -13,7 +13,7 @@ The controller uses a Model Predictive Control (MPC) algorithm to anticipate the
 
 
 
-<img src="https://raw.githubusercontent.com/AMoazeni/Self-Driving-Car/master/Jupyter%20Notebook/Images/01%20-%20Car%20Sensors.png">
+<img src="https://raw.githubusercontent.com/AMoazeni/Self-Driving-Car/master/Jupyter%20Notebook/Images/01%20-%20Car%20Sensors.png" width=50%>
 
 
 
@@ -31,7 +31,7 @@ This architecture lets you control the vehicle acceleration, brake, and steering
 
 
 
-<img src="https://raw.githubusercontent.com/AMoazeni/Self-Driving-Car/master/Jupyter%20Notebook/Images/02%20-%20Control%20System.png">
+<img src="https://raw.githubusercontent.com/AMoazeni/Self-Driving-Car/master/Jupyter%20Notebook/Images/02%20-%20Control%20System.png" width=50%>
 
 
 
@@ -43,7 +43,7 @@ The optimal solution relies on a dynamic model of the process with respects to i
 
 
 
-<img src="https://raw.githubusercontent.com/AMoazeni/Self-Driving-Car/master/Jupyter%20Notebook/Images/03%20-%20MPC%20Algorithm.png">
+<img src="https://raw.githubusercontent.com/AMoazeni/Self-Driving-Car/master/Jupyter%20Notebook/Images/03%20-%20MPC%20Algorithm.png" width=50%>
 
 
 
@@ -57,15 +57,15 @@ Here is a description of a car's Vehicle Dynamics. You can find the constants fo
 
 
 
-<img src="https://raw.githubusercontent.com/AMoazeni/Self-Driving-Car/master/Jupyter%20Notebook/Images/04%20-%20Vehicle%20Dynamics.png">
+<img src="https://raw.githubusercontent.com/AMoazeni/Self-Driving-Car/master/Jupyter%20Notebook/Images/04%20-%20Vehicle%20Dynamics.png" width=50%>
 
 
 
-<img src="https://raw.githubusercontent.com/AMoazeni/Self-Driving-Car/master/Jupyter%20Notebook/Images/05%20-%20Vehicle%20Equations.png">
+<img src="https://raw.githubusercontent.com/AMoazeni/Self-Driving-Car/master/Jupyter%20Notebook/Images/05%20-%20Vehicle%20Equations.png" width=50%>
 
 
 
-<img src="https://raw.githubusercontent.com/AMoazeni/Self-Driving-Car/master/Jupyter%20Notebook/Images/06%20-%20Vehicle%20Constants.png" width=300px>
+<img src="https://raw.githubusercontent.com/AMoazeni/Self-Driving-Car/master/Jupyter%20Notebook/Images/06%20-%20Vehicle%20Constants.png" width=50%>
 
 
 
@@ -77,7 +77,7 @@ The Vehicle Model equations need to be [linearized](https://apmonitor.com/pdc/in
 
 
 
-<img src="https://raw.githubusercontent.com/AMoazeni/Self-Driving-Car/master/Jupyter%20Notebook/Images/07%20-%20Vehicle%20Linear.png">
+<img src="https://raw.githubusercontent.com/AMoazeni/Self-Driving-Car/master/Jupyter%20Notebook/Images/07%20-%20Vehicle%20Linear.png" width=50%>
 
 
 
@@ -87,19 +87,19 @@ The Vehicle Model equations need to be [linearized](https://apmonitor.com/pdc/in
 # Bicycle Model
 
 
-Bicycle models are not as computationally expensive as car models, and also less prone to errors due to their simplicity. It's highly recommended to use a Bicycle Model for the real Self-Driving Car. Check out this research paper which compares [Vehicle versus Bicycle Models for Autonomous Vehicles]().
+Bicycle models are not as computationally expensive as car models, and also less prone to errors due to their simplicity. It's highly recommended to use a Bicycle Model for the real Self-Driving Car. Check out this research paper which compares [Vehicle versus Bicycle Models for Autonomous Vehicles](https://github.com/AMoazeni/Self-Driving-Car/blob/master/Research%20Papers/01%20-%20Vehicle%20Models%20for%20Autonomous%20Driving.pdf). Also read this research paper on [Autonomous Drifting](https://github.com/AMoazeni/Self-Driving-Car/blob/master/Research%20Papers/02%20-%20Autonomous%20Vehicle%20Drifting%20with%20MPC.pdf).
 
 
 
-<img src="https://raw.githubusercontent.com/AMoazeni/Self-Driving-Car/master/Jupyter%20Notebook/Images/08%20-%20Bicycle%20Model.png">
+<img src="https://raw.githubusercontent.com/AMoazeni/Self-Driving-Car/master/Jupyter%20Notebook/Images/08%20-%20Bicycle%20Model.png" width=50%>
 
 
 
-<img src="https://raw.githubusercontent.com/AMoazeni/Self-Driving-Car/master/Jupyter%20Notebook/Images/09%20-%20Bicycle%20Equations.png">
+<img src="https://raw.githubusercontent.com/AMoazeni/Self-Driving-Car/master/Jupyter%20Notebook/Images/09%20-%20Bicycle%20Equations.png" width=50%>
 
 
 
-<img src="https://raw.githubusercontent.com/AMoazeni/Self-Driving-Car/master/Jupyter%20Notebook/Images/10%20-%20Bicycle%20Symbols.png">
+<img src="https://raw.githubusercontent.com/AMoazeni/Self-Driving-Car/master/Jupyter%20Notebook/Images/10%20-%20Bicycle%20Symbols.png" width=50%>
 
 
 
@@ -113,11 +113,11 @@ The tire model equation is not necessary for normal driving. It's only included 
 
 
 
-<img src="https://raw.githubusercontent.com/AMoazeni/Self-Driving-Car/master/Jupyter%20Notebook/Images/11%20-%20Drifting.png">
+<img src="https://raw.githubusercontent.com/AMoazeni/Self-Driving-Car/master/Jupyter%20Notebook/Images/11%20-%20Drifting.png" width=50%>
 
 
 
-<img src="https://raw.githubusercontent.com/AMoazeni/Self-Driving-Car/master/Jupyter%20Notebook/Images/12%20-%20Tire%20Model.png">
+<img src="https://raw.githubusercontent.com/AMoazeni/Self-Driving-Car/master/Jupyter%20Notebook/Images/12%20-%20Tire%20Model.png" width=50%>
 
 
 
@@ -131,13 +131,13 @@ The following images are made in MATLAB, they show the lane (Red lines), the car
 ### Normal Driving
 
 
-<img src="https://raw.githubusercontent.com/AMoazeni/Self-Driving-Car/master/Jupyter%20Notebook/Images/13%20-%20Result%20Car.png">
+<img src="https://raw.githubusercontent.com/AMoazeni/Self-Driving-Car/master/Jupyter%20Notebook/Images/13%20-%20Result%20Car.png" width=50%>
 
 
 ### Drifting
 
 
-<img src="https://raw.githubusercontent.com/AMoazeni/Self-Driving-Car/master/Jupyter%20Notebook/Images/14%20-%20Result%20Drifting.gif">
+<img src="https://raw.githubusercontent.com/AMoazeni/Self-Driving-Car/master/Jupyter%20Notebook/Images/14%20-%20Result%20Drifting.gif" width=50%>
 
 
 
@@ -154,7 +154,7 @@ The [Robot Operating System (ROS)](http://www.ros.org/) is an open source platfo
 ROS applies a Soft Real-Time system to your code which is fine for single projects but becomes problematic when implemented at scale. There are workarounds for getting Hard Real-Time performance, but that's a topic for another post. Follow along with these [ROS Tutorials](http://wiki.ros.org/ROS/Tutorials) to get you started, section 1.1 steps 1-13 are the most important tutorials. The following Self-Driving Car visualization was made in ROS using the Rviz package.
 
 
-<img src="https://raw.githubusercontent.com/AMoazeni/Self-Driving-Car/master/Jupyter%20Notebook/Images/15%20-%20ROS.png">
+<img src="https://raw.githubusercontent.com/AMoazeni/Self-Driving-Car/master/Jupyter%20Notebook/Images/15%20-%20ROS.png" width=50%>
 
 
 
