@@ -1,7 +1,6 @@
 # Introduction
 
-<br></br>
-Take me to the [MATLAB code](https://github.com/AMoazeni/Self-Driving-Car/blob/master/Code/Autonomous%20Drifting%20Simulation.m) for the Self Driving Car!
+Take me to the [MATLAB Simulation Code](https://github.com/AMoazeni/Self-Driving-Car/blob/master/Code/Autonomous%20Drifting%20Simulation.m) for the Self Driving Car!
 
 
 <br></br>
